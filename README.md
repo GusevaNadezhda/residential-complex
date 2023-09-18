@@ -1,23 +1,11 @@
-**Логика и навигация макета:**
-
-
-
-2) 
-
-
-
-6) 
-
-7) Плюсом будет если верстка будет выполнена полностью в rem и  %. При этом базовый размер шрифта у html будет равен 1vw.
-
 
 # residential-complex
 
-<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;">Изображение жилого комплекса умещаться в экран и растягиваться и сжиматься пропорционально при изменении размеров окна. Подсветка корпусов при этом не нарушается.</p>
+<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;"> Разработан интерактивный проект жилого комплекса, который имеет подсветку корпусов. Изображение жилого комплекса умещается в экран и растягиваться и сжиматься пропорционально при изменении размеров окна.</p>
 
 <ol fr-original-style="" style="margin-top: 0px; margin-bottom: 1rem; box-sizing: border-box; font-size: 16px; line-height: 22px;">
 <li fr-original-style="" style="box-sizing: border-box;">При наведении на корпуса здания (с 3 по 7 и с 10 по 12) они плавно подсвечиваются. Так же при наведении  появлятся бабл с таблицей квартир (до этого скрытый). Бабл следует за курсором мыши при ее движении над корпусом здания. </li>
-<li fr-original-style="" style="box-sizing: border-box;">Подсветка сделана с использованием svg, сделаны с помощью ai</li>
+<li fr-original-style="" style="box-sizing: border-box;">Подсветка сделана с использованием svg, сделанный с помощью ai</li>
 <li fr-original-style="" style="box-sizing: border-box;"> <a fr-original-style="" href="https://gusevanadezhda.github.io./residential-complex/Flats2" rel="noopener noreferrer" style="user-select: auto; text-decoration: none; box-sizing: border-box;" target="_blank">На макете</a>  есть кнопки с номерами 1-5. При нажатии на кнопку с цифрой 3 должен подсвечиваться корпус номер 3, при нажатии на 4 - корпус 4 и так до 5. Реакцию на нажатие кнопки 1 и 2 не предусмотрено. При наведении на подсвеченный корпус курсора подсветка не сбрасывается.</li>
 <li fr-original-style="" style="box-sizing: border-box;"> При наведении на кнопку "Выбор по параметрам" проигрыватся анимация: кружки ездят вдоль линий вправо-влево. </li>
 <li fr-original-style="" style="box-sizing: border-box;"> Пункты меню в шапке при изменении размеров окна остаются в центре в соответствии с макетом, при этом сделано пропорциональное увеличение отступов между пунктами меню при увеличении размеров окна. Кнопка меню (бургер) и телефон прибиты к краям экрана. </li>
